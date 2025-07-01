@@ -1,0 +1,23 @@
+﻿  main.cpp
+E:\SFML\SFML-3.0.0\include\SFML\System\Exception.hpp(41,47): warning C4275: 非 dll 接口 class“std::runtime_error”用作 dll 接口 class“sf::Exception”的基
+  (编译源文件“main.cpp”)
+      E:\vs\VC\Tools\MSVC\14.43.34808\include\stdexcept(100,19):
+      参见“std::runtime_error”的声明
+      E:\SFML\SFML-3.0.0\include\SFML\System\Exception.hpp(41,23):
+      参见“sf::Exception”的声明
+  
+C:\Users\Fu\source\Workspaces\2025游戏程序设计-SFML\SpaceWar\main.cpp(30,27): warning C4834: 放弃具有 [[nodiscard]] 属性的函数的返回值
+C:\Users\Fu\source\Workspaces\2025游戏程序设计-SFML\SpaceWar\main.cpp(37,27): warning C4834: 放弃具有 [[nodiscard]] 属性的函数的返回值
+C:\Users\Fu\source\Workspaces\2025游戏程序设计-SFML\SpaceWar\main.cpp(52,28): warning C4834: 放弃具有 [[nodiscard]] 属性的函数的返回值
+C:\Users\Fu\source\Workspaces\2025游戏程序设计-SFML\SpaceWar\main.cpp(56,26): warning C4834: 放弃具有 [[nodiscard]] 属性的函数的返回值
+C:\Users\Fu\source\Workspaces\2025游戏程序设计-SFML\SpaceWar\main.cpp(64,27): warning C4834: 放弃具有 [[nodiscard]] 属性的函数的返回值
+C:\Users\Fu\source\Workspaces\2025游戏程序设计-SFML\SpaceWar\main.cpp(68,34): warning C4834: 放弃具有 [[nodiscard]] 属性的函数的返回值
+C:\Users\Fu\source\Workspaces\2025游戏程序设计-SFML\SpaceWar\main.cpp(69,34): warning C4834: 放弃具有 [[nodiscard]] 属性的函数的返回值
+C:\Users\Fu\source\Workspaces\2025游戏程序设计-SFML\SpaceWar\main.cpp(70,34): warning C4834: 放弃具有 [[nodiscard]] 属性的函数的返回值
+C:\Users\Fu\source\Workspaces\2025游戏程序设计-SFML\SpaceWar\main.cpp(87,27): warning C4834: 放弃具有 [[nodiscard]] 属性的函数的返回值
+C:\Users\Fu\source\Workspaces\2025游戏程序设计-SFML\SpaceWar\main.cpp(98,22): warning C4834: 放弃具有 [[nodiscard]] 属性的函数的返回值
+C:\Users\Fu\source\Workspaces\2025游戏程序设计-SFML\SpaceWar\main.cpp(109,27): warning C4305: “初始化”: 从“double”到“float”截断
+C:\Users\Fu\source\Workspaces\2025游戏程序设计-SFML\SpaceWar\main.cpp(115,33): warning C4834: 放弃具有 [[nodiscard]] 属性的函数的返回值
+C:\Users\Fu\source\Workspaces\2025游戏程序设计-SFML\SpaceWar\main.cpp(118,33): warning C4834: 放弃具有 [[nodiscard]] 属性的函数的返回值
+C:\Users\Fu\source\Workspaces\2025游戏程序设计-SFML\SpaceWar\main.cpp(122,33): warning C4834: 放弃具有 [[nodiscard]] 属性的函数的返回值
+  SpaceWar.vcxproj -> C:\Users\Fu\source\Workspaces\2025游戏程序设计-SFML\SpaceWar\x64\Debug\SpaceWar.exe
